@@ -1,4 +1,4 @@
-# ng2-mean-start
+# ng2-mean-starter-kit
 A startup-base demostrate building an angular 2 app in the MEAN stack with the Angular CLI.
 
 ## Set up.
@@ -9,8 +9,8 @@ $ npm install -g angular-cli
 
 Clone the repo
 ```bash
-$ git clone https://github.com/gangachris/ng2-mean.git
-$ cd ng2-mean
+$ git clone https://github.com/Temeteron/ng2-mean-starter-kit.git
+$ cd ng2-mean-starter-kit
 ```
 
 Install dependencies
