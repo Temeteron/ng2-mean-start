@@ -9,8 +9,8 @@ $ npm install -g angular-cli
 
 Clone the repo
 ```bash
-$ git clone https://github.com/gangachris/ng2-mean.git
-$ cd ng2-mean
+$ git clone https://github.com/Temeteron/ng2-mean-starter-kit.git
+$ cd ng2-mean-starter-kit
 ```
 
 Install dependencies
